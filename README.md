@@ -1,4 +1,4 @@
-<center><h2>Hi there 👋</h2></center>
+<h1 align="center">👋 Hi there! I'm Rainb0w.</h1>
 
 <img alt="Rainb0w's profile image" src="https://raw.githubusercontent.com/Rainb0wCodes/Rainb0wCodes/main/rainb0w.png" width="25%" align="right" />
 
