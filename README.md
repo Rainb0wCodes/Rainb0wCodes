@@ -15,3 +15,5 @@ I’m @Rainb0wCodes, a student and FOSS enthusiast. I love creating Discord bots
 - **📈 Some stats**
 
   ![Rainb0w's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rainb0wCodes&show_icons=true&include_all_commits=true)
+
+👇🏻 Here are some of my favourite projects made by me! 👇🏻
