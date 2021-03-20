@@ -1,6 +1,6 @@
-### Hi there 👋
+<center><h2>Hi there 👋</h2></center>
 
-<img alt="Rainb0w's profile image" src="https://raw.githubusercontent.com/Rainb0wCodes/Rainb0wCodes/main/rainb0w.png" width="35%" align="right" />
+<img alt="Rainb0w's profile image" src="https://raw.githubusercontent.com/Rainb0wCodes/Rainb0wCodes/main/rainb0w.png" width="25%" align="right" />
 
 I’m @Rainb0wCodes, a student and FOSS enthusiast. I love creating Discord bots for the world to use! I also accept commissions.
 
