@@ -2,7 +2,7 @@
 
 <img alt="Rainb0w's profile image" src="https://raw.githubusercontent.com/Rainb0wCodes/Rainb0wCodes/main/rainb0w.png" width="25%" align="right" />
 
-I’m @Rainb0wCodes, a student and FOSS enthusiast. I love creating Discord bots for the world to use! I also accept commissions.
+I’m @Rainb0wCodes, a student and FOSS enthusiast. I love creating Discord bots for the world to use!
 
 - **👀 I’m currently using**
 
@@ -10,10 +10,10 @@ I’m @Rainb0wCodes, a student and FOSS enthusiast. I love creating Discord bots
 
 - **📫 Let's talk**
 
-  If you have any questions about my work or would like to hire me, you can add me on Discord at Rainb0wCodes_484#4288.
+  If you have any questions about my work, you can add me on Discord at Rainb0wCodes_484#4288.
 
 - **📈 Some stats**
 
   ![Rainb0w's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rainb0wCodes&show_icons=true&include_all_commits=true)
 
-👇🏻 Here are some of my favourite projects made by me! 👇🏻
+👇🏻 Here are some of my favourite projects! 👇🏻
